@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "underscore": "^1.12.1",
-    "acorn": ">=6.4.1",
+    "acorn": ">=6.4.2",
     "minimist": ">=1.2.2"
   },
   "devDependencies": {
